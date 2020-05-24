@@ -38,7 +38,7 @@ println("Hello World")
 
 Variables are used to store the value of specific type, the types supported by kotlin there in documentation
 
-Documentation: [https://kotlinlang.org/docs/reference/basic-types.html](https://kotlinlang.org/docs/reference/basic-types.html)[https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/)
+Documentation: [https://kotlinlang.org/docs/reference/basic-types.html](https://kotlinlang.org/docs/reference/basic-types.html), [https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/)
 
 
 ```kotlin
