@@ -969,7 +969,7 @@ when(num) {
 To run same lines of code for multiple choices
 ```kotlin
 when(variable) {
-    1, 2, 3 -> println("your input is either 1 or 2 or 2")
+    1, 2, 3 -> println("your input is either 1 or 2 or 3")
     else -> {
         // running multiple lines
         println("This is not a joke")
@@ -981,7 +981,7 @@ when(variable) {
 To run same lines of code for a **range of numbers**
 ```kotlin
 when(variable) {
-    in 1..3 -> println("your input is either 1 or 2 or 2")
+    in 1..3 -> println("your input is either 1 or 2 or 3")
     else -> {
         // running multiple lines
         println("This is not a joke")
