@@ -1392,11 +1392,11 @@ var num2 = 0
 try {
     num1 / num2
 } catch (e: ArithmeticException) {
-    println("Attempeted divide by zero")
+    println("Attempted divide by zero")
 }
 ```
 
-    Attempeted divide by zero
+    Attempted divide by zero
 
 
 ### Try-Catch as an Expression
