@@ -5,8 +5,6 @@ This is a practical guide on kotlin language. This one file can be used as your 
 
 I will try to update it frequently, but you can feel free to add examples in `codes/` directory or commit changes in readme file
 
-**NOTE:** This is exported from jupyter notebook. If you want that, mail me tbhaxor@gmail.com
-
 # Contents
 - [Preface](#preface)
 - [Introduction](#introduction)
